@@ -113,10 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name                     : "Alagappan Swaminathan"
+  bio              : "A deeper dive into the mind of cat-loving HSP INTJ. I have degrees in EE, CS, and Robotics, I enjoy Biking, Hiking, and Challenging myself."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Atlanta"
   email            :
   links:
     - label: "Email"
