@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : I'm Batman # site tagline that appears below site title in masthead
-name                     : "Alagappan Swaminathan"
-description              : "A deeper dive into the mind of cat-loving HSP INTJ. I have degrees in EE, CS, and Robotics, I enjoy Biking, Hiking, and Challenging myself."
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name                     : "Alagappan Swaminathan"
-  bio              : "A deeper dive into the mind of cat-loving HSP INTJ. I have degrees in EE, CS, and Robotics, I enjoy Biking, Hiking, and Challenging myself."
+  name             : "Alag"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Atlanta"
+  bio              : "An HSP INTJ, cat-loving, thrill-seeking Computer Scientist in the making."
+  location         : "Sol III"
   email            :
   links:
     - label: "Email"
@@ -125,7 +124,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://alag1.github.io"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -137,7 +136,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/alag._.99"
+      url: "https://instagram.com/alag1"
 
 # Site Footer
 footer:
@@ -159,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/alag._.99"
+      # url:
 
 
 # Reading Files
